@@ -1,0 +1,36 @@
+[{
+	"computer": "billy",
+	"type": "intel i5",
+	"memory": 4000,
+	"core": 2,
+	"location" : "India",
+	"isserver" : false,
+	"ports" : [{"usb" : 2}, {"hdmi" : 1}, {"ethernet" :1}]
+},
+{
+	"computer": "gee",
+	"type": "intel i7",
+	"memory": 8000,
+	"core": 2,
+	"location" : "India",
+	"isserver" : true,
+	"ports" : [{"usb" : 3}, {"hdmi" : 1}, {"ethernet" :1}]
+},
+{
+	"computer": "foo",
+	"type": "intel i7",
+	"memory": 8000,
+	"core": 4,
+	"location" : "Germany",
+	"isserver" : true,
+	"ports" : [{"usb" : 3}, {"hdmi" : 1}, {"ethernet" :1}]
+},
+{
+	"computer": "bar",
+	"type": "intel i5",
+	"memory": 4000,
+	"core": 2,
+	"location" : "Germany",
+	"isserver" : false,
+	"ports" : [{"usb" : 4}, {"hdmi" : 1}]
+}]
